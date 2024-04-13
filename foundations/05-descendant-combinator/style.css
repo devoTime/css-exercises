@@ -1,0 +1,9 @@
+div p {
+  color: red;
+  background-color: yellow;
+  font-size: 20px;
+  text-align: center;
+}
+
+/* .container .text works too as class selectors */
+/* Current CSS uses type selectors to select descendant combinators */
